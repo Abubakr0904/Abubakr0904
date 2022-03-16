@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abubakr 👋
 
-> A Junior Developer building awesome web back/front stuff using .NET tech-stack at `Ilmhub`. A hope for those who gave me all of them for my fortune.
+> A Dotnet Developer building awesome web back/front stuff using .NET tech-stack at `Ilmhub`. A hope for those who gave me all of them for my fortune.
 <br/><br/><br/>
 
 <p align="end">
@@ -18,7 +18,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Student at Management Development Institute of Singapore in Tashkent.
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 💼 &nbsp; Working as a Junior Developer at [Ilmhub.](https://ilmhub.uz)
+  - 💼 &nbsp; Working as a Dotnet Developer at [Ilmhub.](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog.](https://t.me/Abubakr_IT_blog)
 - 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: baxromovabubakr@gmail.com.
