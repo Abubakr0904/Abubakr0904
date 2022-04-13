@@ -20,7 +20,7 @@
 - ⌛️ &nbsp; Currently I'm busy with:
   - 💼 &nbsp; Working as a Dotnet Developer at [Ilmhub.](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog.](https://t.me/Abubakr_IT_blog)
-- 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
+- 🌱 &nbsp; Learning the features of .NET to improve consistently.
 - 📫 &nbsp; Reach me at: baxromovabubakr@gmail.com.
 
 <br/>
